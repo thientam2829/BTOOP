@@ -1,0 +1,16 @@
+D:\BTOOP\KETHUA\CAU1\CAU1\bin\Debug\net6.0\CAU1.exe
+D:\BTOOP\KETHUA\CAU1\CAU1\bin\Debug\net6.0\CAU1.deps.json
+D:\BTOOP\KETHUA\CAU1\CAU1\bin\Debug\net6.0\CAU1.runtimeconfig.json
+D:\BTOOP\KETHUA\CAU1\CAU1\bin\Debug\net6.0\CAU1.dll
+D:\BTOOP\KETHUA\CAU1\CAU1\bin\Debug\net6.0\ref\CAU1.dll
+D:\BTOOP\KETHUA\CAU1\CAU1\bin\Debug\net6.0\CAU1.pdb
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.GlobalUsings.g.cs
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.csproj.AssemblyReference.cache
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.AssemblyInfoInputs.cache
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.AssemblyInfo.cs
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.csproj.CoreCompileInputs.cache
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.dll
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\ref\CAU1.dll
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.pdb
+D:\BTOOP\KETHUA\CAU1\CAU1\obj\Debug\net6.0\CAU1.genruntimeconfig.cache

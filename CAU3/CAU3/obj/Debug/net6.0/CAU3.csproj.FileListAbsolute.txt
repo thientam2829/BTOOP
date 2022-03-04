@@ -1,0 +1,16 @@
+D:\BTOOP\CAU3\CAU3\CAU3\bin\Debug\net6.0\CAU3.exe
+D:\BTOOP\CAU3\CAU3\CAU3\bin\Debug\net6.0\CAU3.deps.json
+D:\BTOOP\CAU3\CAU3\CAU3\bin\Debug\net6.0\CAU3.runtimeconfig.json
+D:\BTOOP\CAU3\CAU3\CAU3\bin\Debug\net6.0\CAU3.dll
+D:\BTOOP\CAU3\CAU3\CAU3\bin\Debug\net6.0\ref\CAU3.dll
+D:\BTOOP\CAU3\CAU3\CAU3\bin\Debug\net6.0\CAU3.pdb
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.GlobalUsings.g.cs
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.csproj.AssemblyReference.cache
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.AssemblyInfoInputs.cache
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.AssemblyInfo.cs
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.csproj.CoreCompileInputs.cache
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.dll
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\ref\CAU3.dll
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.pdb
+D:\BTOOP\CAU3\CAU3\CAU3\obj\Debug\net6.0\CAU3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.GlobalUsings.g.cs
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.csproj.AssemblyReference.cache
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.AssemblyInfoInputs.cache
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.AssemblyInfo.cs
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.csproj.CoreCompileInputs.cache
+D:\BTOOP\CAU4\CAU4\bin\Debug\net6.0\CAU4.exe
+D:\BTOOP\CAU4\CAU4\bin\Debug\net6.0\CAU4.deps.json
+D:\BTOOP\CAU4\CAU4\bin\Debug\net6.0\CAU4.runtimeconfig.json
+D:\BTOOP\CAU4\CAU4\bin\Debug\net6.0\CAU4.dll
+D:\BTOOP\CAU4\CAU4\bin\Debug\net6.0\ref\CAU4.dll
+D:\BTOOP\CAU4\CAU4\bin\Debug\net6.0\CAU4.pdb
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.dll
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\ref\CAU4.dll
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.pdb
+D:\BTOOP\CAU4\CAU4\obj\Debug\net6.0\CAU4.genruntimeconfig.cache
